@@ -5,7 +5,7 @@
 -Html
 and Javascript
 
-You have to type the name of each worker, when you write de lat worker, you have to
+You have to type the name of each worker, when you write de last worker, you have to
 type exit to exit the window, then you will see the list
 
 
